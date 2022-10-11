@@ -1,3 +1,3 @@
 # restful-api-best-practices
 
-https://app.daily.dev/posts/ju0gEvNNX
+https://www.freecodecamp.org/news/rest-api-design-best-practices-build-a-rest-api/
